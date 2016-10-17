@@ -1,4 +1,4 @@
-update=Saturday, 15 October 2016 'pmt' 12:54:36
+update=Saturday, 15 October 2016 'pmt' 20:56:34
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,4 @@ LibName34=agg-kicad/lib/connector/swd_tc
 LibName35=parts/fox924b
 LibName36=agg-kicad/lib/connector/microusb
 LibName37=agg-kicad/lib/ic/power/bq24232ha
+LibName38=agg-kicad/lib/ic/analogue/ad8541
