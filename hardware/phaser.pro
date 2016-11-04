@@ -1,4 +1,4 @@
-update=Saturday, 15 October 2016 'pmt' 20:56:34
+update=Fri 04 Nov 2016 13:48:13 GMT
 version=1
 last_client=kicad
 [pcbnew]
@@ -67,3 +67,5 @@ LibName35=parts/fox924b
 LibName36=agg-kicad/lib/connector/microusb
 LibName37=agg-kicad/lib/ic/power/bq24232ha
 LibName38=agg-kicad/lib/ic/analogue/ad8541
+LibName39=agg-kicad/lib/ic/analogue/lmx93
+LibName40=agg-kicad/lib/connector/coax
